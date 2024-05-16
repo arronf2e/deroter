@@ -1,9 +1,16 @@
 {
-  "name": "my-project",
+  "name": "deroterA",
   "version": "1.0.0",
   "description": "A Mpvue project",
   "author": "arronf2e <191446367@qq.com>",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arronf2e/deroter"
+  },
+  "bugs": {
+    "url": "https://github.com/arronf2e/deroter/issues"
+  },
+  "homepage": "https://github.com/arronf2e/deroter#readme",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
